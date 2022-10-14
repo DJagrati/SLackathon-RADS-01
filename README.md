@@ -1,7 +1,7 @@
 # SLackathon-RADS-01
 
 ## Overview:
-The Road Accident Detection System, or RADS, is used to identify crashes seen on the roadways and transmit information about them to the closest medical facility and police stations. The cameras installed alongside the road are the hardware used to collect this data, and the Ardino that is attached to it is utilised for processing. Location of the Accident, Impact of the Accident, Type of Vehicle(s), Probable Number of Injured, and Vehicle Owner's Information are among the details supplied.
+The Road Accident Detection System, or RADS, is used to identify crashes seen on the roadways and transmit information about them to the closest medical facility and police stations. The cameras installed alongside the road are the hardware used to collect this data, and a micro-controller that is attached to it is utilised for processing. Location of the Accident, Impact of the Accident, Type of Vehicle(s), Probable Number of Injured, and Vehicle Owner's Information are among the details supplied.
 
 ## How can technology help?
 Road accident victims who pass away owing to delays and/or accidents in remote areas will receive prompt medical care, thanks to RADS.
