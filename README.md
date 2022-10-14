@@ -14,8 +14,8 @@ Once it is determined that the object(s) have not moved in the last five minutes
 https://user-images.githubusercontent.com/47938204/195777875-12a10fbe-0659-4ac5-b617-40252ba01a75.mp4
 
 ## Detailed Description:
-1.	In the video, we intend to provide the coordinates of the road to the code for the beginning(S) and end(E) where the accident is to be detected.
-2.	Using a speed of 5 km/hr, a maximum time (M) is estimated to travel the specified distance.
+1.	In the video, we intend to provide the coordinates of the road to the code for the beginning(**S**) and end(**E**) where the accident is to be detected.
+2.	Using a speed of 5 km/hr, a maximum time (**M**) is estimated to travel the specified distance.
 3.	A dictionary with the vehicle's unique ID is kept from the time the vehicle enters the point S until it exits the point E, where the unique ID is the key and the time of entry into the point S is the value.
 4.	The dictionary's key-value pair for the stored vehicle ID is destroyed as soon as the car leaves point E.
 
